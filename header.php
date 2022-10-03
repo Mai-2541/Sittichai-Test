@@ -4,8 +4,8 @@ session_start();
 
 date_default_timezone_set("Asia/Bangkok");
 if(isset($_POST['login'])){
-    $email = $_POST['email'];
-    $password = $_POST['password'];
+    $email = $_POST['sittichai.sa@rmutsvmail.com'];
+    $password = $_POST['1122334455'];
 
     $_SESSION['user_id'] = 1;
     $_SESSION['user_level'] = 1; 
