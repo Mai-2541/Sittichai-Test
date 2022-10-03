@@ -8,7 +8,7 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 <li class="nav-item bg-link">
-                    <a class="nav-link link" href="index.php">หน้าหลัก</a>
+                    <a class="nav-link link" href="index.php">HOME</a>
                 </li>
                 <li class="nav-item bg-link">
                     <a class="nav-link link" href="restaurant.php">ร้านอาหาร</a>
